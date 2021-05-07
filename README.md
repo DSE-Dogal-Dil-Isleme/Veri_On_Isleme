@@ -1,1 +1,1 @@
-# Veri-n-leme
+# VERİ ÖN İŞLEME
